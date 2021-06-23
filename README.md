@@ -1,1 +1,1 @@
-# shape-ai
+# shape-ai python project 
